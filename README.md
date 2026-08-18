@@ -1,4 +1,4 @@
-# Hi, I'm Abbas Ali 👋
+# Hi, I'm Abbas Ali 
 
 I'm interested in statistics, data analysis, and machine learning. Most of my work is in R, and I also use Python for data and modeling projects.
 
