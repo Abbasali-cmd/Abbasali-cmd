@@ -1,38 +1,51 @@
-# 👋 Hi, I'm Abbas Ali (@Abbasali-cmd)
+# Hi, I'm Abbas Ali 👋
 
-🚀 **Data Science & Machine Learning Enthusiast**  
-🔬 **Creator of Hybrid Abbas Ali Metric (HAAM)**  
-📊 Passionate about statistics, AI, and predictive modeling  
+I'm interested in statistics, data analysis, and machine learning. Most of my work is in R, and I also use Python for data and modeling projects.
 
----
+Right now, I'm working on the **Hybrid Abbas Ali Metric (HAAM)**, an experimental distance metric for mixed numerical and categorical data.
 
-### 🌱 **Currently Learning**
-- Advanced Machine Learning techniques
-- Bayesian Inference & Probabilistic Modeling
-- Feature Engineering & Data Preprocessing
+## What I'm working on
 
----
+* Testing HAAM against Euclidean, Manhattan, and Gower distance
+* Building reproducible data analysis projects
+* Improving my skills in statistical modeling and machine learning
+* Learning more about Bayesian statistics
 
-### 👀 **Projects & Interests**
-- **Hybrid Abbas Ali Metric (HAAM)**: A custom distance metric for mixed datasets, improving KNN classification.  
-  🔗 [GitHub Repository](https://github.com/Abbasali-cmd/Hybrid-Abbas-Ali-Metric-HAAM-)
+## Featured project
 
-- **Titanic Survival Analysis**: Used HAAM to analyze survival prediction with mixed feature transformations.
+### Hybrid Abbas Ali Metric (HAAM)
 
-- **Machine Learning & AI**: Exploring applications of SVM, XGBoost, and Deep Learning in classification problems.
+HAAM is a distance metric I'm developing for mixed-type data.
 
----
+It combines:
 
-### 💬 **How to Reach Me**
-📧 **Email:** abs3ali@gmail.com  
-🌎 **GitHub:** [@Abbasali-cmd](https://github.com/Abbasali-cmd)  
+* transformed numerical differences
+* feature weights
+* scaling
+* categorical mismatch
 
----
+I'm currently testing how it performs in KNN classification and comparing it with other distance measures.
 
-### ⚡ **Fun Fact**
-- I love working with **custom metrics** to optimize model performance.
-- **Bayesian Statistics** fascinates me, especially when applied to **real-world decision-making**.
+[View the HAAM repository](https://github.com/Abbasali-cmd/hybrid-abbas-ali-metric)
 
----
+## Other work
 
-🔹 **Let's connect and build amazing AI solutions!**
+### Canada–U.S. Mental Health Analysis
+
+A statistical analysis project focused on mental health data, visualization, and reproducible research.
+
+[View the project](https://github.com/Abbasali-cmd/canada-us-mental-health-analysis)
+
+## Tools I use
+
+R • Python • RStudio • Git • GitHub
+
+## Interests
+
+Statistics • Data Analysis • Machine Learning • Bayesian Statistics • Predictive Modeling
+
+## Contact
+
+Email: [abs3ali@gmail.com](mailto:abs3ali@gmail.com)
+
+GitHub: [@Abbasali-cmd](https://github.com/Abbasali-cmd)
