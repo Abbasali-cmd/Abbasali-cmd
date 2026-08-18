@@ -46,6 +46,6 @@ Statistics • Data Analysis • Machine Learning • Bayesian Statistics • Pr
 
 ## Contact
 
-Email: [abs3ali@gmail.com](mailto:abs3ali@gmail.com)
+Email: [abs3ali@proton.me](mailto:abs3ali@proton.me)
 
 GitHub: [@Abbasali-cmd](https://github.com/Abbasali-cmd)
